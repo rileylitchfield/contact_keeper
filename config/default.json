@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://Admin:admin@contactkeeper.p0vvx.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://Admin:admin@contactkeeper.p0vvx.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
 }
